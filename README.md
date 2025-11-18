@@ -58,9 +58,3 @@ Material adicional de versiones previas u otras prácticas: -
 Ofrecer una experiencia web completa sobre Fórmula 1 que incluya: -
 Información general. - Compra simulada de entradas. - Sorteos
 interactivos. - Formularios de contacto y acceso.
-
-------------------------------------------------------------------------
-
-Si quieres, puedo generar también una **descripción técnica más
-detallada**, documentación del código o un **diagrama de la estructura
-del proyecto**.
